@@ -34,7 +34,6 @@ lightdm-gtk-greeter
 rfkill
 spice-vdagent
 dolphin
-thunar-volman
 ubuntu-drivers-common
 unzip
 libiw30t64
@@ -43,6 +42,7 @@ xdg-user-dirs
 xdg-user-dirs-gtk
 xdg-utils
 plasma-desktop
+konsole
 xkb-data
 xorg
 x11-common
