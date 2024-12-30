@@ -1,6 +1,6 @@
 #!/bin/sh
 
-mkdir casper || true
+mkdir -p casper
 mv live/filesystem.squashfs casper/filesystem.squashfs
 mv live/filesystem.size casper/filesystem.size
 mv live/initrd.img-* casper/initrd.lz
